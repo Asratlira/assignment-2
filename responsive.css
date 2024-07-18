@@ -13,5 +13,12 @@
         display: none;
         
     }
+    .banner{
+        flex-direction: column;
+    }
+   
+       
+      
     
+
 }
