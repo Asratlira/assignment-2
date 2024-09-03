@@ -16,9 +16,9 @@
     .banner{
         flex-direction: column;
     }
-   
-       
-      
-    
+    .item-container-routine{
+        flex-direction: column;
+    }
+
 
 }
